@@ -1,0 +1,5 @@
+{
+  "name": "AI Banner Ad Generator",
+  "description": "Generate high-quality banner ads in all standard sizes from a product description and URL. This app uses Gemini to generate a product image and compelling ad copy.",
+  "requestFramePermissions": []
+}
